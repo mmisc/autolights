@@ -1,0 +1,10 @@
+host: philips-hue.fritz.box
+interval: 0.5
+masters: 
+        Sofa:
+                slaves:
+                        - Leselampe
+                        - Rund rechts
+        Küche:
+                slaves:
+                        - Kugel Küche
